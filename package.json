@@ -45,5 +45,8 @@
     "bl": "npm:@jacoscaz/bl-smol@^6.1.2-alpha.0",
     "debug": "^4.3.4",
     "process-nextick-args": "^2.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
