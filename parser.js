@@ -1,4 +1,4 @@
-const bl = require('bl')
+const bl = require('@jacoscaz/bl-smol')
 const { EventEmitter } = require('events')
 const Packet = require('./packet')
 const constants = require('./constants')
