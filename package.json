@@ -19,7 +19,7 @@
   "pre-commit": "test",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mqttjs/mqtt-packet.git"
+    "url": "https://github.com/jacoscaz/mqtt-packet-smol.git"
   },
   "keywords": [
     "MQTT",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mqttjs/mqtt-packet/issues"
+    "url": "https://github.com/jacoscaz/mqtt-packet-smol/issues"
   },
-  "homepage": "https://github.com/mqttjs/mqtt-packet",
+  "homepage": "https://github.com/jacoscaz/mqtt-packet-smol",
   "devDependencies": {
     "pre-commit": "^1.2.2",
     "readable-stream": "^4.4.2",
@@ -42,7 +42,7 @@
     "tape": "^5.7.2"
   },
   "dependencies": {
-    "@jacoscaz/bl-smol": "^6.1.2-alpha.0",
+    "@jacoscaz/bl-smol": "^6.1.2",
     "debug": "^4.3.4",
     "process-nextick-args": "^2.0.1"
   },
