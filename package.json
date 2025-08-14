@@ -41,7 +41,7 @@
     "tape": "^5.7.2"
   },
   "dependencies": {
-    "bl": "^6.0.8",
+    "bl": "npm:@jacoscaz/bl-smol@^6.1.2-alpha.0",
     "debug": "^4.3.4",
     "process-nextick-args": "^2.0.1"
   }
